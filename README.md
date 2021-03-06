@@ -2,7 +2,7 @@
 Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard J. Morrison, working for toy design firm Marvin Glass and Associates, with software programming by Lenny Cope. The device creates a series of tones and lights and requires a user to repeat the sequence.
 
 
-link to the game:
+link to the game: https://padmanabh03.github.io/Simon/
 
 HOW TO PLAY:
 
@@ -18,5 +18,5 @@ HOW TO PLAY:
 
 5]If you fail to repeat a sequence exactly, Simon responds with a "RAZZ" sound. This means you've lost, and the sequence of signals ends.
 
-
+You can also enjoy this game with your friends and family
 
